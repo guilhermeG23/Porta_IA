@@ -1,3 +1,5 @@
 RPi .GPIO
 picamera
 time
+os
+cv2 -> opencv-python
