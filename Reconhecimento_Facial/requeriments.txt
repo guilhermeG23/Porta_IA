@@ -1,5 +1,0 @@
-#Requeriments
-opencv
-numpy
-pillow
-matplotlib

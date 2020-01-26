@@ -1,0 +1,30 @@
+#Lib Python3
+pip3 install RPi.GPIO
+pip3 install picamera
+pip3 install time 
+
+#Algumas versoes do opencv4 acusa o error: "symblo: __atomic_fetch_add8", a de baixo não acusa o problema
+pip3 install opencv-python==4.0.1.24
+pip3 install opencv-contrib-python==4.0.1.24
+
+pip3 install numpy
+pip3 install pillow
+pip3 install matplotlib
+pip3 install imutils
+
+#Editor
+vim 
+
+#Install Raspian
+sudo apt install libhdf5-103
+apt install libqtgui4
+apt install libqtest-ocaml
+apt install libqt4-test
+apt install libhdf5-dev libhdf5-serial-dev libqtgui4 libqtwebkit4 libqt4-test python3-pyqt5 libatlas-base-dev
+apt install libeigen3-dev
+
+#Error Opencv
+"Cannot conect X server" -> Necessita de interface grafica para ser executado
+
+#Erro LDA - > Trainer_All
+* Necessita de mais de um rosto para treino, só com 1 ele falha por falta de argumento
