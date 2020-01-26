@@ -18,7 +18,15 @@ Só conseguir fazer uma fechadura abrir com sensor de presença e reconhecimento
 * Teste nos Hardware - Feito
 * Teste simples de reconhecimento facial - Feito
 * Iniciar reconhecimento facial - Feito
+
+-----------------
+
 * Integrar PIR com o reconhecimento
+
+Esta parte resultou em alguns problemas, o uso do software de reconhecimento facial no meio do script falha na execução.
+
+-----------------
+
 * Montar a estrutura para o projeto
 * Maturar mais o projeto se possível
 
